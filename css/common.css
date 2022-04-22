@@ -22,3 +22,13 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+/* task 3 */
+.basic {
+  display: flex;
+}
+
+.list-item {
+  list-style: none;
+  padding: 10px;
+}
